@@ -6,7 +6,6 @@ Problem link 3 (power of 4): https://leetcode.com/problems/power-of-four/
 Solution for problem1:
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
-        a=1
         if(n<1):
             return 0
         else:
